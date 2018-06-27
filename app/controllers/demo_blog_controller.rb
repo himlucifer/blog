@@ -7,4 +7,7 @@ class DemoBlogController < ApplicationController
 
   def about
   end
+
+  def contact
+  end
 end
