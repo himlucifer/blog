@@ -1,0 +1,2 @@
+module DemoBlogHelper
+end
